@@ -31,7 +31,12 @@ async function fetchtodos(){
         // }
 
     // Default Data
-    tasks=[{ "id": 1, "title": "Make TO DO List", "completed": false}];
+    tasks=[
+        { "id": 1, "title": "Rise with the sun", "completed": false},
+        { "id": 2, "title": "Practice gratitude", "completed": false},
+        { "id": 3, "title": "Sweat", "completed": false},
+        { "id": 4, "title": "Journal your thoughts", "completed": false}
+    ];
     renderList();
 }
 
