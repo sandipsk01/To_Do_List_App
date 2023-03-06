@@ -1,5 +1,5 @@
 # To_Do_List_App
-Building To Do List App Using API
+Building To Do List App
 
 ## General steps to follow when creating a project
 
